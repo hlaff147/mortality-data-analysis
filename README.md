@@ -8,7 +8,7 @@ Antes de focar nessa abordagem específica sobre infartos, uma análise abrangen
 
 ## Metodologia
 
-O recorte específico para analisar os infartos foi escolhido com base em análises do banco de dados completo do SIM. O notebook principal (`main.ipynb`) contém essa análise geral do banco de dados, enquanto o script `infarto.py` se concentra na seção específica sobre infartos, enfatizando pesquisa e relatórios sobre essa condição.
+O recorte específico para analisar os infartos foi escolhido com base em análises do banco de dados completo do SIM. O notebook principal (`main.ipynb`) contém essa análise geral do banco de dados, enquanto o script `infarto.py` se concentra na seção específica sobre infartos, enfatizando pesquisa e relatórios sobre essa condição. Utilizamos bibliotecas de Python para realizar análises mais detalhadas, incluindo a geração de gráficos e visualizações para facilitar a compreensão dos dados analisados.
 
 ## Análise Específica
 
